@@ -9,10 +9,10 @@
           "type": "session",
           "style": "powerline",
           "foreground": "#ffffff",
-          "background": "#BD93F9",
+          "background": "#9580ff",
           "powerline_symbol": "\uE0B0",
           "properties": {
-            "style": "full"
+            "display_host": false
           }
         },
         {
@@ -20,7 +20,7 @@
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
           "foreground": "#21222C",
-          "background": "#50FA7B",
+          "background": "#8aff80",
           "properties": {
             "style": "full"
           }
@@ -30,16 +30,7 @@
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
           "foreground": "#21222C",
-          "background": "#FFFFA5"
-        },
-        {
-          "type": "time",
-          "style": "plain",
-          "foreground": "#FF79C6",
-          "properties": {
-            "time_format": "15:04:05",
-            "style": "full"
-          }
+          "background": "#ffff80"
         }
       ]
     }
